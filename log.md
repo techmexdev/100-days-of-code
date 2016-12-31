@@ -6,8 +6,11 @@
 
 **Thoughts:** 
 
-**Link to blog post**
+**Link to blog post:**
 
 **Link to work:** [Calculator App](http://www.example.com)
+
+**Plan for tomorrow:**
+
 
 ### Day 1: Janurary 2, 2016
