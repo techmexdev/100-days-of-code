@@ -8,7 +8,7 @@
 
 **Link to blog post:**
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** 
 
 **Plan for tomorrow:**
 
