@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 0: Janurary 1, 2016
+### Day 0: March 17, 2017
 
 **Today's Progress**: 
 
